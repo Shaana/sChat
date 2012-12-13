@@ -1,0 +1,7 @@
+## Interface: 50100
+## Tile: sChat
+## Author: Shaana
+## Notes: straight forward chat addon
+
+chat.lua
+globals.lua
